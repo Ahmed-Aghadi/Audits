@@ -1,9 +1,9 @@
 # Findings
 
-| Contests                                                  | H   | M   | QA  | G   | Status   |
-| --------------------------------------------------------- | --- | --- | --- | --- | -------- |
-| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena) | 2   | 2   | -   | B   | Reporting  |
-| [Curves](https://code4rena.com/audits/2024-01-curves)     | 2   | 1   | B   | A   | Reporting |
+| Contests                                                  | H   | M   | QA  | G   | Status           |
+| --------------------------------------------------------- | --- | --- | --- | --- | ---------------- |
+| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena) | 2   | 2   | -   | B   | Report Published |
+| [Curves](https://code4rena.com/audits/2024-01-curves)     | 2   | 1   | B   | A   | Reporting        |
 
 # Profile
 
